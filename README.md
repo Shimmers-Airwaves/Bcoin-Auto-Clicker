@@ -1,1 +1,1 @@
-# Bcoin-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
